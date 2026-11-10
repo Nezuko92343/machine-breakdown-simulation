@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Віртуальні середовища
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Результати, які генерує ноутбук (таблиці CSV і рисунки PNG)
+results/
+
+# IDE та системні файли
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
